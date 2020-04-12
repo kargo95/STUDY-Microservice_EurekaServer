@@ -1,0 +1,9 @@
+package io.javabrains.movieinfoservice.resources;
+
+import io.javabrains.movieinfoservice.models.Movie;
+
+public class MovieResource {
+	public Movie getMovieInfo() {
+		
+	}
+}
